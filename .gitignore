@@ -1,0 +1,4 @@
+node_modules/
+doctor-api/node_modules/
+doctor-ui/node_modules/
+.env

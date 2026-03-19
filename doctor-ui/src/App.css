@@ -1,0 +1,34 @@
+body {
+  background: #f4f7fb;
+}
+
+.nav-custom {
+  background: linear-gradient(90deg, #0d6efd, #0aa2c0);
+}
+
+.auth-card, .page-card {
+  border: none;
+  border-radius: 14px;
+  box-shadow: 0 12px 30px rgba(0,0,0,0.08);
+}
+
+.left-banner {
+  background: linear-gradient(180deg, #0d6efd, #0aa2c0);
+  border-radius: 14px;
+  color: white;
+  padding: 25px;
+  height: 100%;
+}
+
+.badge-soft {
+  background: #e7f3ff;
+  color: #0d6efd;
+  padding: 6px 10px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.table thead th {
+  white-space: nowrap;
+}
